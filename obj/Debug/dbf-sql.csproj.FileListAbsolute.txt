@@ -1,0 +1,6 @@
+c:\users\cobrien\documents\visual studio 2017\Projects\dbf-sql\dbf-sql\bin\Debug\dbf-sql.exe.config
+c:\users\cobrien\documents\visual studio 2017\Projects\dbf-sql\dbf-sql\bin\Debug\dbf-sql.exe
+c:\users\cobrien\documents\visual studio 2017\Projects\dbf-sql\dbf-sql\bin\Debug\dbf-sql.pdb
+c:\users\cobrien\documents\visual studio 2017\Projects\dbf-sql\dbf-sql\obj\Debug\dbf-sql.csprojResolveAssemblyReference.cache
+c:\users\cobrien\documents\visual studio 2017\Projects\dbf-sql\dbf-sql\obj\Debug\dbf-sql.exe
+c:\users\cobrien\documents\visual studio 2017\Projects\dbf-sql\dbf-sql\obj\Debug\dbf-sql.pdb
